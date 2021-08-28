@@ -1,9 +1,11 @@
 # ROVER
-## This is travel website that helps people:- 
-### Find places they can visit in a particular region.
-### Find best travel plans.
-### Create travel schedules.
-### And helps in managing time and plan a perfect holiday.
+## Description
+This is a webiste built using HTML,CSS and design elements. The website provides travellers and wanderers an ease to visit new places and provides guidance.
+`` *link * `` 
+# Disclaimer
+All rights to the pictures and owned by their respective owners and are for public to use.
+All rights to the website and its contents are owned by the individual of Nikhil Bhatt.
+
 
 ## ScreenShot of the Website
 ![Picture1](https://user-images.githubusercontent.com/54997083/126056187-62b74fde-0900-4df6-9555-448527867080.png)
